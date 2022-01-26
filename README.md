@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lallevato
 - 👀 I’m interested in all kinds of software, looking to expand my programming knowledge
-- 🌱 I’m currently learning Java and MySQL
+- 🌱 I’m currently learning Java and NoSQL
 - 🐱‍🏍 Sophomore at Arapahoe Community College studying Secure Software Development
 
 <!---
