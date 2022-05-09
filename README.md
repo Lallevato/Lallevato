@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lallevato
-- 👀 I’m interested in all kinds of software, looking to expand my programming knowledge
-- 🌱 I’m currently learning Java and NoSQL
-- 🐱‍🏍 Sophomore at Arapahoe Community College studying Secure Software Development
+- 👀 I’m interested in all kinds of software, especially AI
+- 🌱 I’m currently learning about machine learning in Python
+- 🐱‍🏍 Junior at Colorado State University Pueblo in Computer Information Systems
 
 <!---
 Lallevato/Lallevato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
